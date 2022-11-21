@@ -3,7 +3,7 @@ Saranno strutturati in modo tale che per poter svolgere l'esercizio successivo, 
     eseguire gli esercizi precedenti in modo corretto. 
 Le diverse tipologie di esercizi saranno suddivisi in "Progetti" come ad esempio Py00, Py01 etc...
 
-I Progetti saranno suddivi in questo modo:
+I Progetti saranno suddivisi in questo modo:
     - Py00 --> Tipo di Dati
     - Py01 --> Defizione di una funzione e Induzione
     - Py02 --> Istruzioni Condizionali e Cicli ( While e For )
