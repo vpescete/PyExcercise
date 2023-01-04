@@ -7,4 +7,5 @@
 
 # Scrivi il tuo codice qui sotto ...
 
-def fibonacci(index):
+def fibonacci(n):
+    

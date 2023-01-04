@@ -16,4 +16,5 @@
 
 # Scrivi il tuo codice qui sotto ...
 
-def printInt(nb):
+def print_int(nb):
+    

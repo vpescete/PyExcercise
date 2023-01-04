@@ -6,4 +6,7 @@
 
 # Scrivi il tuo codice qui sotto ...
 
-def recorsivePower(nb):
+def recursive_power(nb, power):
+    
+    
+    
