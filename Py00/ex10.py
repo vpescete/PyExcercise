@@ -14,3 +14,8 @@
 
 
 # Scrivi il tuo codice qui sotto ...
+from math import sqrt
+
+def ft_sqrt(x):
+   
+

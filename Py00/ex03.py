@@ -7,3 +7,6 @@
 # Funzione ammesse: nessuna
 
 #Scrivi il tuo codice qui sotto ...
+
+def div_int_nb(n1, n2):
+    

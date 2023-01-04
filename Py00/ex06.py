@@ -13,3 +13,7 @@
 
 
 # Scrivi il tuo codice qui sotto ...
+
+def print_type_int(input_value):
+    
+    

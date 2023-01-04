@@ -13,3 +13,6 @@
 
 
 # Scrivi il tuo codice qui sotto ...
+
+def print_type_float_or_int(x):
+    

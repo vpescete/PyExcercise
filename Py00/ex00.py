@@ -1,4 +1,4 @@
-# Scrivi una funzione che stampi ad output la somma tra due numeri.
+# Scrivi una funzione che prenda in input due numeri e stampi ad output la somma tra due numeri.
 # Esempi di output:
 # -   14 + 16 = 30
 # -   10 + 5 = 15
@@ -8,3 +8,5 @@
 
 #Scrivi il tuo codice qui sotto ...
 
+def somma_nb(n1, n2):
+    

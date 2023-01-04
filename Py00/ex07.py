@@ -11,3 +11,6 @@
 
 
 # Scrivi il tuo codice qui sotto ...
+
+def print_bool(input_value):
+    
