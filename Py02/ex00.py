@@ -1,5 +1,5 @@
 # Scrivi una funzione che prende in input un numero maggiore di 0 e 
-#     stampi tramite un ciclo 'for' i numeri che vanno da 0 a il numero passato
+#     stampi tramite un ciclo 'for' i numeri che vanno da 0 fino al numero passato
 #     come parametro.
 #
 # Esempi di output:

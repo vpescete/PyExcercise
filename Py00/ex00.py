@@ -9,4 +9,3 @@
 #Scrivi il tuo codice qui sotto ...
 
 def somma_nb(n1, n2):
-    

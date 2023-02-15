@@ -10,4 +10,4 @@
 # Scrivi la tua funzione qui sotto:
 
 
-def ft_lowCase(str):
+def ft_lowCase(string):

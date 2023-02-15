@@ -13,4 +13,9 @@
 # Scrivi il tuo codice qui sotto ...
 
 def print_bool(input_value):
-    
+    if (input_value == True):
+        print("True")
+        print(type(input_value))
+    else:
+        print("False")
+        print(type(input_value))

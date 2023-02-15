@@ -9,5 +9,4 @@
 
 # Scrivi la tua funzione qui sotto:
 
-
 def ft_isLowercase(str):

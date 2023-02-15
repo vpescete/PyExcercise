@@ -15,5 +15,6 @@
 # Scrivi il tuo codice qui sotto ...
 
 def print_type_int(input_value):
-    
-    
+    x = input_value
+    print(str(x))
+    print(type(x))
