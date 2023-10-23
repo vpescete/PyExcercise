@@ -22,4 +22,12 @@ def test1_ex00():
 	sys.stdout = captured_output
  
 	fizzbuzz()
-	assert captured_output.getvalue() == fizzbuzz0()
+	# Ripristina sys.stdout al suo valore originale
+	sys.stdout = sys.__stdout__
+
+	# Rimuovi l'ultimo carattere di nuova riga
+	output = captured_output.getvalue()
+	if output.endswith('\n'):
+		output = output[:-1]
+
+	assert output == fizzbuzz0()
